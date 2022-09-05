@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leo22LonqueDev
-- 👀 I’m interested in be a developer
+- 👀 I’m working hard and learning to be a Junior Developer
 - 🌱 I’m currently learning Java Professional
 - 💞️ I’m looking to collaborate on small projects to gain knowledge
 - 📫 If you want to talk with me, here is my LinkedIn: https://www.linkedin.com/in/leonardo-de-arruda-lonque-a1056b1a0/
