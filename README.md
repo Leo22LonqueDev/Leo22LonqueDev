@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Leo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4b242e1231a1d502a15bc7b9b88a0552.gif" width="300" height="302" border="50" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 </div>
   
