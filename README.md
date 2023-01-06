@@ -1,5 +1,5 @@
 ## 👋 Ola, eu sou o Leonardo Lonque
-- 👀 Trabalho com HelpDesk - Azure, mas estou comecando meus estudos para migrar para Desenvolvimento
+- 👀 Trabalho com QA | Tester e estou estudando no momento para Desenvolvimento
 - 🌱 Estou atualmente estudando Java Professional pela Udemy
 - 💞️ Estou a procura de novos conhecimentos e desafios
 
