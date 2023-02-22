@@ -1,6 +1,6 @@
 ## 👋 Ola, eu sou o Leonardo Lonque
-- 👀 Trabalho com QA | Tester e estou estudando no momento para Desenvolvimento
-- 🌱 Estou atualmente estudando Java Professional pela Udemy
+- 👀 Estudante de Desenvolvimento
+- 🌱 Finalizado curso de Java Professional pela Udemy
 - 💞️ Estou a procura de novos conhecimentos e desafios
 
 <div align="center">
