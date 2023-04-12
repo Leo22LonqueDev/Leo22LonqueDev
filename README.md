@@ -1,7 +1,7 @@
 ## 👋 Ola, eu sou o Leonardo Lonque
-- 👀 Estudante de Desenvolvimento
-- 🌱 Finalizado curso de Java Professional pela Udemy
-- 💞️ Estou a procura de novos conhecimentos e desafios
+- 👀 Estudante de Desenvolvimento Java
+- 🌱 Semeando meu portfolio a fim de demonstrar os conhecimentos obtidos e me auto desafia
+- 💞️ Estou a procura de novos conhecimentos e desafios, algo que junte o proposito com a felicidade.
 
 <div align="center">
   <a href="https://github.com/Leo22LonqueDev">
