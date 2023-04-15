@@ -1,6 +1,6 @@
 ## 👋 Ola, eu sou o Leonardo Lonque
 - 👀 Estudante de Desenvolvimento Java
-- 🌱 Semeando meu portfolio a fim de demonstrar os conhecimentos obtidos e me auto desafia
+- 🌱 Semeando meu portfolio a fim de demonstrar os conhecimentos obtidos e me auto desafiar
 - 💞️ Estou a procura de novos conhecimentos e desafios, algo que junte o proposito com a felicidade.
 
 <div align="center">
