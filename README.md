@@ -1,5 +1,5 @@
 ## 👋 Oi, eu sou o Léo
-- 👀 Estudante de Desenvolvimento Java;
+- 👀 Estudante de Desenvolvimento;
 - 🌱 Semeando meu portfolio a fim de demonstrar os conhecimentos obtidos e me auto desafiar;
 - 💞️ Estou a procura de novos conhecimentos e desafios, algo que junte o proposito com a felicidade.
 
