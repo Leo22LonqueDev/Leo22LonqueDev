@@ -24,7 +24,8 @@
 </div>
 <div>
   
-  [![Snake Game](https://github.com/Leo22LonqueDev/Leo22LonqueDev/actions/workflows/main.yml/badge.svg)](https://github.com/Leo22LonqueDev/Leo22LonqueDev/actions/workflows/main.yml)
+  [![Snake Gif](https://github.com/Leo22LonqueDev/Leo22LonqueDev/actions/workflows/main.yml/badge.svg)]
+  
 </div>
         
 
