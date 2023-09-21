@@ -24,7 +24,7 @@
 </div>
 <div>
   
-  ![Snake animation](https://github.com/Leo22LonqueDev//Leo22LonqueDev/blob/output/github-contribution-grid-snake.svg)
+  [![Snake Game](https://github.com/Leo22LonqueDev/Leo22LonqueDev/actions/workflows/main.yml/badge.svg)](https://github.com/Leo22LonqueDev/Leo22LonqueDev/actions/workflows/main.yml)
 </div>
         
 
