@@ -1,5 +1,5 @@
 ## 👋 Oi, aqui é o Léo, estudante de Engenharia de Software!
-<div align="center">
+<div style="display: flex"align="center">
   <a href="https://github.com/Leo22LonqueDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo22LonqueDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo22LonqueDev&layout=compact&langs_count=7&theme=dracula"/>
