@@ -1,4 +1,4 @@
-## 👋 Oi, aqui é o Léo, estudante de Engenharia de Software!
+## 👋 Oi, aqui é o Léo, Desenvolvedor FullStack React Junior - JS e TS!
 <div style="display: flex"align="center">
   <a href="https://github.com/Leo22LonqueDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo22LonqueDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
