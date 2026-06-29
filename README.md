@@ -43,6 +43,7 @@ Currently, I work on enterprise systems involving cloud infrastructure, real-tim
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### Cloud & Tools
 
