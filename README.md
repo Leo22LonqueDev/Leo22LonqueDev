@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Leonardo Arruda Lonque
 
-### Full Stack Developer | TypeScript | React | Node.js
+  ### Full Stack Developer | TypeScript | React | Node.js | Nest.ts 
 
 I'm a Full Stack Developer with **3+ years of experience** building modern web applications using TypeScript. I enjoy designing scalable solutions, creating intuitive user experiences, and developing reliable backend services.
 
-Currently, I work on enterprise systems involving cloud infrastructure, real-time communication, and full-stack development.
+Currently, I work on enterprise systems involving real-time communication, and full-stack development.
 
 ---
 
