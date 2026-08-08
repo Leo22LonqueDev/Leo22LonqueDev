@@ -69,12 +69,6 @@ Full Stack application developed to support agronomic operations, including fron
 
 ---
 
-### ☁️ Azure Support Solutions
-
-Infrastructure support, troubleshooting and cloud administration for enterprise environments.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
