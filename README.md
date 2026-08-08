@@ -99,7 +99,9 @@ Full Stack application developed to support agronomic operations, including fron
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoftoutlook)](mailto:leonardoarrudalonque@outlook.com)
 ---
 
-![Snake animation]([https://raw.githubusercontent.com/Leo22LonqueDev/Leo22LonqueDev/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Leo22LonqueDev/Leo22LonqueDev/output/github-contribution-grid-snake.svg))
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Leo22LonqueDev/Leo22LonqueDev/output/github-contribution-grid-snake.svg)
 
 ---
 
